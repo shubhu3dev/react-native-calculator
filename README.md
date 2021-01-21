@@ -10,6 +10,8 @@ The component we used in this project are as follows:
   6. SafeAreaView
   7. TextInput
   
+  As well as React hooks to use state.
+  
   <i>(Note : The Values of currency are static and placed into App.js file)</i>
 
 ![alt text](https://raw.githubusercontent.com/shubhu3dev/react-native-calculator/main/images/Screenshot_2021-01-21-15-26-00-561_com.calculaterapp.png)
